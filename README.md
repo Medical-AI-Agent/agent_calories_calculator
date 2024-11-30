@@ -1,6 +1,4 @@
-# agent_calories_calculator
-AI Healthcare Agent Workflow Visualization Using Agentboard
-
+# AI Healthcare Agent Workflow Visualization Using Agentboard: AI Agent Calories Calculator
 
 AI Agents act as the role of health coaches nutritionists can
 - provide advice on nutrition and calories, such as Dietitians, Health coaches (helping them set nutrition goals and make sustainable behavior changes), Personal trainers (They develop training and nutrition programs and can work in gyms), Sports nutritionists, etc.
